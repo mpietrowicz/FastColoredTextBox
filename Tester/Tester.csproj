@@ -24,7 +24,6 @@
     <Content Include="htmlDesc.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="TabStrip.dll" />
   </ItemGroup>
   <PropertyGroup>
     <PostBuildEvent>copy "$(TargetDir)Tester.exe" "$(SolutionDir)Binary"

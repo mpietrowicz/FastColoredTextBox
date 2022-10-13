@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Drawing;
-using System.IO;
+﻿using System.Diagnostics;
 using System.Text;
-using System.Windows.Forms;
 using FastColoredTextBoxNS;
 using Tester.DiffMergeStuffs;
 

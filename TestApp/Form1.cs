@@ -12,7 +12,7 @@ namespace TestApp
         {
             InitializeComponent();
 
-            fastColoredTextBox1.
+     
         }
 
         private void fastColoredTextBox1_TextChanged(object sender, FastColoredTextBoxNS.TextChangedEventArgs e)

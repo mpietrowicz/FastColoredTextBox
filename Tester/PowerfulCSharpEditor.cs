@@ -1,17 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Windows.Forms;
-using FarsiLibrary.Win;
+﻿using System.ComponentModel;
 using FastColoredTextBoxNS;
-using System.IO;
 using System.Text.RegularExpressions;
-using System.Threading;
-using System.Drawing.Drawing2D;
 
 namespace Tester
 {

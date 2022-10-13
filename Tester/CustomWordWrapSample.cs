@@ -1,6 +1,4 @@
-﻿using System;
-using System.Windows.Forms;
-using FastColoredTextBoxNS;
+﻿using FastColoredTextBoxNS;
 using System.Text.RegularExpressions;
 
 namespace Tester

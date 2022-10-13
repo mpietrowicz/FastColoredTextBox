@@ -1,7 +1,4 @@
-﻿using System.Drawing;
-using System.Text.RegularExpressions;
-using System.Windows.Forms;
-using FastColoredTextBoxNS;
+﻿using FastColoredTextBoxNS;
 
 namespace Tester
 {

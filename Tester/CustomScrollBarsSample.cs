@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Windows.Forms;
-using FastColoredTextBoxNS;
-
-namespace Tester
+﻿namespace Tester
 {
     public partial class CustomScrollBarsSample : Form
     {

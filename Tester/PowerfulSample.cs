@@ -1,16 +1,5 @@
-﻿using System;
-using System.Drawing.Drawing2D;
-using System.Threading;
-using System.Windows.Forms;
-using System.Drawing;
-using FastColoredTextBoxNS;
-using System.Diagnostics;
+﻿using FastColoredTextBoxNS;
 using System.Text.RegularExpressions;
-using System.IO;
-using System.Linq;
-using System.Collections.Generic;
-using System.Runtime.Serialization.Formatters.Binary;
-using System.Text;
 
 namespace Tester
 {
