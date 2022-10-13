@@ -1,5 +1,5 @@
-FastColoredTextBox
-==================
+FastColoredTextBox .NET 6 (fork:  PavelTorgashov)
+=========================
 
 Fast Colored TextBox is text editor component for .NET.
 Allows you to create custom text editor with syntax highlighting.
