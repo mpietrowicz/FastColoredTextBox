@@ -29,9 +29,10 @@ namespace Tester
     /// </summary>
     class EllipseStyle : Style
     {
+      
+
         public override void Draw(Graphics gr, Point position, Range range)
         {
-            //get size of rectangle
             Size size = GetSizeOfRange(range);
             //create rectangle
             Rectangle rect = new Rectangle(position, size);
