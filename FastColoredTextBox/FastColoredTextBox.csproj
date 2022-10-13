@@ -15,10 +15,8 @@
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>FCTB_key.snk</AssemblyOriginatorKeyFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
-  <ItemGroup>
-    <Reference Include="System.Design" />
-  </ItemGroup>
   <ItemGroup>
     <Compile Update="AutocompleteMenu.cs">
       <SubType>Component</SubType>
