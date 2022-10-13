@@ -16,6 +16,7 @@
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>FCTB_key.snk</AssemblyOriginatorKeyFile>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>$(AssemblyName).Net6</PackageId>
   </PropertyGroup>
   <ItemGroup>
     <Compile Update="AutocompleteMenu.cs">
@@ -33,11 +34,5 @@
     <Compile Update="UnfocusablePanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers" Version="0.4.346202">
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.0" />
   </ItemGroup>
 </Project>
